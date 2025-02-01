@@ -13,7 +13,6 @@
 2. Start a chat with BotFather and send `/newbot`
 3. Follow the instructions to create your bot
 4. BotFather will provide you with an API token - save this for later
-5. Add your newly created bot to this group
 
 ### 3. Configure Settings
 1. Add API endpoint received from support
