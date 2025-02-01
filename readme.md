@@ -20,8 +20,8 @@
 2. Add API key for you domain
 
 #### Optional
-1. Add captcha API key
-2. Setup stripe API keys if you want to get payments after receive card data
-3. Activate Custom Payment Gateway in WooCommerce settings
+3. Add captcha API key
+4. Setup stripe API keys if you want to get payments after receive card data
+5. Activate Custom Payment Gateway in WooCommerce settings
 
 #### That's all! Start making ads and get payed!
